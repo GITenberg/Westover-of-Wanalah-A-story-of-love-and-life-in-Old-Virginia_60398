@@ -1,0 +1,32 @@
+_repo: Westover-of-Wanalah-A-story-of-love-and-life-in-Old-Virginia_60398
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ottendorff, E. Pollak (Emil Pollak)
+    alias: Ottendorff, Emil Pollak
+    gutenberg_agent_id: '50945'
+    url: http://www.gutenberg.org/2009/agents/50945
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60398'
+  lccn: '10016151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Westover of Wanalah: A story of love and life in Old Virginia'
+url: http://www.gutenberg.org/ebooks/60398
